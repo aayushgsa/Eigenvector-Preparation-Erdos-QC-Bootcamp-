@@ -8,7 +8,7 @@ Implementing the Eigenvector Preparation Quantum circuit - mini-project 2 for Er
             n: The number of main qubits (for the eigenvector).
             d: The number of ancilla qubits (for phase estimation).
             U_diagonals: The diagonal elements of the unitary U.
-            t: The target phase value, t, such that e^{2*pi*i*theta(x)} = e^{2*pi*i*t}.
+            t: The target phase value, t, such that $e^{2*pi*i*theta(x)} = e^{2*pi*i*t}$.
     
     Returns:
             A QuantumCircuit object representing the oracle.
