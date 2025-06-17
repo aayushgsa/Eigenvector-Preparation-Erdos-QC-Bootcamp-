@@ -1,4 +1,4 @@
-# Eigenvector-Preparation-Erdos-QC-Bootcamp-
+# Eigenvector-Preparation-Erdos-QC-Bootcamp
 
 Implementing the Eigenvector Preparation Quantum circuit - mini-project 2 for Erdos Quantum Computing Bootcamp (in collaboration between Aayush Vijayvargia and Sandeep Joy)
 
